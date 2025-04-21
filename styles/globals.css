@@ -13,7 +13,7 @@ body {
 
 @font-face {
       font-family: "Aileron";
-      src: url("styles/Aileron-Thin.otf") format("truetype");
+      src: url("./styles/Aileron-Thin.otf") format("truetype");
     }
 
 main {
